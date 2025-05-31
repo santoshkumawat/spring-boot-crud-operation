@@ -15,7 +15,7 @@
 	<groupId>com.santoshkumawat</groupId>
 	<artifactId>SpringBoot-CrudOperation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 	<name>SpringBoot-CrudOperation</name>
 	<description>A mini CRUD operation project for learning microservices and Spring Boot</description>
 
