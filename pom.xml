@@ -22,6 +22,7 @@
 	<modules>
 		<module>Crud-EmployeeApp</module>
 		<module>Crud-NativeQuery-eCommerceApp</module>
+		<module>Crud-DaoApp</module>
 	</modules>
 
 	<properties>
